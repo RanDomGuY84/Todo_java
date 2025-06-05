@@ -34,7 +34,7 @@ todo-reminder-app
 ## Setup Instructions
 1. **Clone the Repository**: 
    ```
-   git clone https://github.com/RanDomGuY84/Todo_java/edit/main/todo-reminder-app
+   git clone https://github.com/RanDomGuY84/Todo_java
    cd todo-reminder-app
    ```
 
